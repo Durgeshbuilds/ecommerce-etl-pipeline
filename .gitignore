@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Raw data (large files, not code)
+raw-data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+pipeline.log
+
+# macOS
+.DS_Store
